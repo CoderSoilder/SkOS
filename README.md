@@ -1,2 +1,2 @@
 # SkOS
-Trying to make a OS like system in Skript
+A OS like system made in skript
